@@ -9,7 +9,7 @@ Please take a look at [project mindmap](/assets/commondataindex.png) to see it's
 
 ## Quick links
 
-* [Data catalogs registry dataset](https://github.com/commondataio/dataportals-registry/blob/main/data/datasets/catalogs.jsonl)
+* [Data catalogs registry dataset](https://github.com/commondataio/dataportals-registry/blob/main/data/datasets/catalogs.jsonl) 
 
 
 ### Q&A
